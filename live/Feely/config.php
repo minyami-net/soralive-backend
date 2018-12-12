@@ -7,7 +7,7 @@ return array(
 	'is_hsts' => true, //是否使用HTTPS严格传输安全
     'is_acao' => true,
 	'streaming_address' => 'rtmp://live.minyami.net/livesend',
-	'livestreaming_prefix' => 'https://www.minyami.net/streaming/',
+	'livestreaming_prefix' => 'https://stream.minyami.net/streaming/',
 	//数据库配置
 	'db_type' => 'mysql',
 	'db_host' => 'localhost',
